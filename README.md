@@ -1,3 +1,5 @@
-Ejecutar el siguiente comando para las dependencias y paquetes a instalar:
+Este un prototipo del proyecto. Se pueden ejecutar las APIs para las validaciones de pruebas. 
+
+Instalar dependencias:
 
 npm install express mongoose body-parser dotenv
